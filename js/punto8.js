@@ -27,7 +27,7 @@ class Persona{
         if(nuevoedad > 2){
             this.#edad = nuevoEdad;
         }else{
-            console.log(`Ingrese un nombre con más de dos caracteres`)
+            console.log(`Ingrese una edad de dos años`)
         }
     }
 
